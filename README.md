@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ohbin-kwon
-- 👀 I’m interested in reading sth.
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on ...
+- 📚 I’m interested in IOT.
+- 💻 I’m currently learning/doing javascript.
 - 📫 How to reach me ohbinkwon.dev@gmail.com
 
 <!---
