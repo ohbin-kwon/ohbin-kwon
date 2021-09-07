@@ -3,7 +3,8 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>Backend developer</b> using Node.js. 🚀<br/>
+  👋&nbsp; Hi there! I'm <b>Backend developer</b> using Node.js.<br/>
+  📖&nbsp; I’m currently learning TypeScript / MongoDB
 </p>
 
 ### 💪 Stacks
