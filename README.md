@@ -1,4 +1,4 @@
-  <a href="mailto:kobbb2100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kobbb2100@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ <center> <a href="mailto:kobbb2100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kobbb2100@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ohbinkwon" target="_blank"><img src="https://img.shields.io/badge/OhbinKwon-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
@@ -23,3 +23,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohbin-kwon&hide=stars,issues&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbin-kwon&hide=css,jupyter%20notebook,html&exclude_repo=ohbin-kwon,ohbin-kwon.github.io&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+</center>
