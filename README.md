@@ -19,3 +19,6 @@
 <img src="https://img.shields.io/badge/typescript-00599C?style=flat-square&logo=Typescript&logoColor=white"/> 
 
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohbin-kwon&hide=stars,issues&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbin-kwon&hide=css,jupyter%20notebook,html&exclude_repo=ohbin-kwon,ohbin-kwon.github.io&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
