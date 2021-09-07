@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/AWS-4682B4?style=flat-square&logo=AmazonAWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
-still Learning
+<b>still Learning</b>
 <p>
 <img src="https://img.shields.io/badge/typescript-00599C?style=flat-square&logo=Typescript&logoColor=white"/> 
 
