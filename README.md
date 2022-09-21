@@ -1,22 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Ohbin&fontAlign=70&fontAlignY=40&animation=twinkling)
 
 <p>
-  👋&nbsp; Hi there! I'm <b>Backend developer</b> using Node.js.<br/>
-  📖&nbsp; I’m currently learning TypeScript / MongoDB
-</p>
 
-### ⚒&nbsp; Stacks
-<p>
-<img src="https://img.shields.io/badge/Javascript-FFCA28?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-006400?style=flat-square&logo=Node.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/mongodb-228B22?style=flat-square&logo=mongodb&logoColor=white"/> 
-<img src="https://img.shields.io/badge/AWS-4682B4?style=flat-square&logo=AmazonAWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-### currently learning
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/> 
+
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
  
 <p>
-<img src="https://img.shields.io/badge/typescript-00599C?style=flat-square&logo=Typescript&logoColor=white"/> 
 
 </p>
 <br>
@@ -28,7 +29,6 @@
 
  <center>
  <a href="mailto:kobbb2100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kobbb2100@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ohbinkwon" target="_blank"><img src="https://img.shields.io/badge/OhbinKwon-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
- <a href="https://ohbin-kwon.notion.site/ca24f720d3d04d5199e8d479fcc1f9bb" target="_blank"><img src="https://img.shields.io/badge/OhbinKwon-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+ <a href="https://www.notion.so/ohbin-kwon/b41b74150a7b41b18e3709c3d56b99e7" target="_blank"><img src="https://img.shields.io/badge/OhbinKwon-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 </center>
